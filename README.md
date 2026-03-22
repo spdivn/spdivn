@@ -23,7 +23,7 @@ Obsessive about **performance**, **semantics**, and the details that separate go
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,less,jquery,php,magento,docker,linux,git,figma,jira&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills]([https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,less,jquery,php,magento,docker,linux,git,figma,jira&theme=dark&perline=8](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,less,jquery,php,vim,docker,linux,git,figma,gulp,jenkins,nodejs,phpstorm,gitlab&theme=dark&perline=10))](https://skillicons.dev)
 
 </div>
 
