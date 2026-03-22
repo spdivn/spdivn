@@ -6,7 +6,7 @@
 
 `React` · `Next.js` · `TypeScript` · `Headless` · `E-commerce`
 
-7+ years of experience · Based in Italy · Open to new opportunities
+7+ years of experience · Based in Italy
 
 </div>
 
